@@ -1,0 +1,2 @@
+# ModernComputerAlgebra
+introduction to basic algebraic algorithms that are useful for computer algebra systems and their applications. More specifically, operations like multiplication, division, greatest common divisors and factorization are studied over several domains including the ring of integers, finite fields, polynomial rings, and quotient rings. The basic tools considered include modular arithmetic, discrete Fourier transform, Chinese remainder theorem and Newton iteration
